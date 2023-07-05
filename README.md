@@ -2,9 +2,9 @@
 
 ### 💻 &nbsp;About Me
 
-🤓 I love programming and creating new things \
-🕶 A full-time programmer at heart \
-🙌 A young student from Kiev with a big dream \
+🤓 I love programming and creating new things 
+🕶 A full-time programmer at heart 
+🙌 A young student from Kiev with a big dream 
 
 
 ### ⌨️  &nbsp;Tech Stack
