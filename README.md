@@ -45,7 +45,13 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Lavarel](https://img.shields.io/badge/-Lavarel-05122A?style=flat&logo=Lavarel&logoColor=Lavarel)&nbsp;
 
-### ☁ &nbsp; CLoud compuying systems
+### 💳 &nbsp; WEB3
+
+![Solidity%](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;
+![Smartcontracts%](https://img.shields.io/badge/-Smartcontracts-05122A?style=flat&logo=Smartcontracts)&nbsp;
+![DEFI%](https://img.shields.io/badge/-DEFI-05122A?style=flat&logo=DEFI)&nbsp;
+
+### ☁ &nbsp; CLoud computing systems
 
 ![Microsoft%20Azure](https://img.shields.io/badge/-Microsoft%20Azure-05122A?style=flat&logo=Microsoft%20Azure)&nbsp;
 ![AWS%](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
