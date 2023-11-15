@@ -12,11 +12,22 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=Tailwind%20CSS&logoColor=tailwind%20css)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstarp-05122A?style=flat&logo=Bootstrap&logoColor=blue)&nbsp;
+![Vite.JS](https://img.shields.io/badge/-Vite.js-05122A?style=flat&logo=Vite.js&logoColor=yellow)&nbsp;
+![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=Webpack&logoColor=webpack)&nbsp;
+![Gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=Gulp&logoColor=gulp)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=blue)&nbsp;
+![React native](https://img.shields.io/badge/-React%20native-05122A?style=flat&logo=React%20native&Color=blue)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=TypeScript&logoColor=typescript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL&Color=green)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&sp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&logoColor=green)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask&Color=green)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Lavarel](https://img.shields.io/badge/-Lavarel-05122A?style=flat&logo=Lavare&logoColor=red)&nbsp;
 
 ### ☑️ &nbsp;GitHub Analytics
 
