@@ -7,10 +7,10 @@
 🙌 A young student from Kiev with a big dream 
 
 
-### ⌨️  &nbsp;Tech Stack
+### ⌨️ &nbsp;Tech Stack
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
+### 🪞 &nbsp;Frontend
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=Tailwind%20CSS&logoColor=tailwind%20css)&nbsp;
@@ -23,31 +23,44 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=blue)&nbsp;
 ![React%20native](https://img.shields.io/badge/-React%20native-05122A?style=flat&logo=React%20native)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=TypeScript&logoColor=typescript)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=TypeScript&logoColor=typescript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
+
+### ⚙ &nbsp;Backend
+
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![Jest%20Unit](https://img.shields.io/badge/-Jest%20Unit-05122A?style=flat&logo=Jest%20Unit)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&Color=MongoDB)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&Color=PostgreSQL)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
+
+###  🔰  &nbsp; Basic knowledge
+
 ![Python](https://img.shields.io/badge/-Pyton-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&logoColor=green)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask&Color=green)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Lavarel](https://img.shields.io/badge/-Lavarel-05122A?style=flat&logo=Lavarel&logoColor=Lavarel)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
+
+### ☁ &nbsp; CLoud compuying systems
+
 ![Microsoft%20Azure](https://img.shields.io/badge/-Microsoft%20Azure-05122A?style=flat&logo=Microsoft%20Azure)&nbsp;
 ![AWS%](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
 ![Google%20cloud](https://img.shields.io/badge/-Google%20cloud-05122A?style=flat&logo=Google%20cloud)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET)&nbsp;
+
+###  🖱  &nbsp; Tools
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello)&nbsp;
 ![Google%20sheets](https://img.shields.io/badge/-Google%20sheets-05122A?style=flat&logo=Google%20sheets)&nbsp;
 ![Microsoft%20Office](https://img.shields.io/badge/-Microsoft%20Office-05122A?style=flat&logo=Microsoft%20Office)&nbsp;
-![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello)&nbsp;
 
-### ☑️ &nbsp;GitHub Analytics
+### ☑️ &nbsp; GitHub Analytics
 
 <center>
   <a href="https://github.com/Syagr">
