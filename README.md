@@ -48,8 +48,8 @@
 ### 💳 &nbsp; WEB3
 
 ![Solidity%](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;
-![Smartcontracts%](https://img.shields.io/badge/-Smartcontracts-05122A?style=flat&logo=Smartcontracts)&nbsp;
-![DEFI%](https://img.shields.io/badge/-DEFI-05122A?style=flat&logo=DEFI)&nbsp;
+![Smart%20contracts%](https://img.shields.io/badge/-Smart%20contracts-05122A?style=flat&logo=Smart%20contracts)&nbsp;
+![DeFi%](https://img.shields.io/badge/-DeFi-05122A?style=flat&logo=DeFi)&nbsp;
 
 ### ☁ &nbsp; CLoud computing systems
 
