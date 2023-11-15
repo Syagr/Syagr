@@ -14,7 +14,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=Tailwind%20CSS&logoColor=tailwind%20css)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstarp-05122A?style=flat&logo=Bootstrap&logoColor=blue)&nbsp;
-![Vite.JS](https://img.shields.io/badge/-Vite.js-05122A?style=flat&logo=Vite.js&logoColor=yellow)&nbsp;
+![Vite.JS](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=Vite&logoColor=yellow)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=Webpack&logoColor=webpack)&nbsp;
 ![Gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=Gulp&logoColor=gulp)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -23,7 +23,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=TypeScript&logoColor=typescript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL&Color=green)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&sp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&logoColor=green)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask&Color=green)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
