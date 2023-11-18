@@ -21,6 +21,7 @@
 ![Mobx](https://img.shields.io/badge/-Mobx-05122A?style=flat&logo=Mobx)&nbsp;
 ![BUN sh](https://img.shields.io/badge/-Bun-05122A?style=flat&logo=Bun)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=Jquery)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=blue)&nbsp;
 ![React%20native](https://img.shields.io/badge/-React%20native-05122A?style=flat&logo=React%20native)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
@@ -30,6 +31,7 @@
 ### ⚙ &nbsp;Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
+![Nest](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=Nest)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![Jest%20Unit](https://img.shields.io/badge/-Jest%20Unit-05122A?style=flat&logo=Jest%20Unit)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&Color=MongoDB)&nbsp;
