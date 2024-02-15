@@ -31,6 +31,7 @@
 ### ⚙ &nbsp;Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express.js)&nbsp;
 ![Nest](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=Nest)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![Jest%20Unit](https://img.shields.io/badge/-Jest%20Unit-05122A?style=flat&logo=Jest%20Unit)&nbsp;
